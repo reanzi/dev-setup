@@ -1,0 +1,15 @@
+{
+  "name": "dev-setup",
+  "version": "1.0.0",
+  "description": "A simple dev automation packages for web designing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dev-setup",
+    "automation"
+  ],
+  "author": "Raymond Michael Nziku (reanzi)",
+  "license": "MIT"
+}
