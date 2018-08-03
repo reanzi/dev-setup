@@ -11,5 +11,17 @@
     "automation"
   ],
   "author": "Raymond Michael Nziku (reanzi)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reanzi/dev-setup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/reanzi/dev-setup/issues"
+  },
+  "homepage": "https://github.com/reanzi/dev-setup#readme"
 }
