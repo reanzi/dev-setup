@@ -13,9 +13,12 @@
   "author": "Raymond Michael Nziku (reanzi)",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^4.0.0"
+    "gulp": "^4.0.0",
+    "gulp-watch": "^5.0.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "braces": "^3.0.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/reanzi/dev-setup.git"
